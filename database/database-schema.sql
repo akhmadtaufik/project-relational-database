@@ -58,7 +58,7 @@ CREATE TABLE users (
     first_name VARCHAR(25) NOT NULL, -- First name of the user, cannot be NULL
     last_name VARCHAR(25) NOT NULL, -- Last name of the user, cannot be NULL
     email VARCHAR(75) UNIQUE NOT NULL, -- Unique email address for the user, cannot be NULL
-    contact VARCHAR(15) NOT NULL, -- Contact information for the user, cannot be NULL
+    contact VARCHAR(25) NOT NULL, -- Contact information for the user, cannot be NULL
     location_id INT NOT NULL, -- Location ID associated with the user
     UNIQUE(first_name, last_name), -- Combination of first and last names must be unique
     CONSTRAINT fk_user_location -- Foreign key constraint linking user to location
