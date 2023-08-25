@@ -1,0 +1,14 @@
+body_type_id,body_type_name
+BT-001,Convertible
+BT-002,Crossover
+BT-003,Double Cabin
+BT-004,Elektrik
+BT-005,Hatchback
+BT-006,Hybrid
+BT-007,LCGC
+BT-008,MPV
+BT-009,Offroad
+BT-010,SUV
+BT-011,Sedan
+BT-012,Sport
+BT-013,Station Wagon

@@ -1,0 +1,201 @@
+car_id,manufacture_id,model_id,body_type_id,year_manufactured,engine_capacity,passenger_capacity,transmission_type,fuel_type,drive_system,odometer,additional_details
+1,M-09,CM0016,BT-005,2019,1.5,5,manual,diesel,RWD,36269,Corporis libero iure quae accusantium dicta. Optio occaecati vitae recusandae modi labore laboriosam. In hic cum mollitia ipsa vitae.
+2,M-09,CM0012,BT-002,2017,2.0,5,manual,diesel,AWD,5297,Corrupti molestiae doloribus. Fugiat nulla iure sequi consectetur.
+3,M-17,CM0038,BT-003,2023,2.5,5,manual,diesel,AWD,31466,Provident nemo maiores recusandae sunt soluta.
+4,M-17,CM0009,BT-008,2021,1.5,7,automatic,gasoline,RWD,18933,Voluptas et eos repudiandae ipsa ipsa inventore. Ex quis impedit laborum provident eos. Delectus repellendus cum similique modi molestias maiores ipsam.
+5,M-17,CM0047,BT-007,2016,1.2,5,automatic,gasoline,AWD,104845,Quos totam inventore vel voluptatibus. Voluptates adipisci laboriosam sequi accusantium.
+6,M-10,CM0037,BT-009,2019,5.5,4,automatic,diesel,FWD,88995,Commodi itaque omnis earum consectetur numquam beatae. Quibusdam eligendi saepe. Pariatur blanditiis quasi similique error minima modi. Ab ratione ad eius delectus.
+7,M-05,CM0022,BT-012,2017,2.0,4,automatic,diesel,RWD,34264,Eum ea amet tenetur occaecati sed. Excepturi maxime a illum temporibus. Optio expedita quis neque.
+8,M-09,CM0016,BT-005,2019,1.5,5,manual,gasoline,AWD,82904,Quas perferendis commodi ratione accusamus cum explicabo maxime. Ipsa fugiat sit cum natus soluta voluptates aut. In alias cumque animi eum accusantium libero.
+9,M-17,CM0004,BT-010,2021,2.4,5,manual,gasoline,AWD,51010,Beatae repudiandae assumenda modi tempora eligendi. Quidem at dolorem reprehenderit iusto pariatur.
+10,M-15,CM0034,BT-009,2017,1.5,4,automatic,diesel,FWD,62396,Eaque laudantium veritatis quaerat vitae. At eos ea sapiente.
+11,M-03,CM0003,BT-010,2018,1.5,5,automatic,gasoline,RWD,24636,Aut sed facere voluptatem a consequuntur ducimus doloribus. Earum ratione possimus. Quaerat dolorum voluptas nisi doloremque veritatis.
+12,M-12,CM0010,BT-002,2019,1.5,5,automatic,gasoline,AWD,128221,Dolorem dolorum accusantium doloribus sed. Harum expedita nihil natus.
+13,M-07,CM0035,BT-009,2013,3.6,4,automatic,diesel,FWD,21807,Eius iure error eveniet quam deleniti dolor ut. Doloremque deserunt magnam necessitatibus non laborum iste. Odio asperiores minima voluptates possimus accusantium. Aperiam veniam doloribus delectus commodi perferendis.
+14,M-17,CM0006,BT-008,2015,1.5,7,automatic,diesel,RWD,48396,Iure dicta magnam qui.
+15,M-10,CM0037,BT-009,2016,5.5,4,manual,gasoline,FWD,135543,Architecto aut molestiae aut. Ipsum eius id quos autem voluptatibus.
+16,M-15,CM0046,BT-006,2022,1.5,5,automatic,hybrid,AWD,6825,Libero nobis repellendus perspiciatis molestiae similique. Labore magnam eveniet.
+17,M-05,CM0017,BT-005,2006,1.5,5,manual,diesel,AWD,139739,Repudiandae voluptatibus molestias odit. Expedita eaque sed eligendi reprehenderit quasi asperiores. Autem dolores iure aliquid iusto rem.
+18,M-17,CM0004,BT-010,2017,2.4,5,manual,diesel,AWD,148164,Qui earum voluptas quas expedita suscipit. Non repellat aspernatur molestiae natus debitis id. Voluptate incidunt at consectetur maxime veritatis. Omnis nihil rerum.
+19,M-17,CM0018,BT-011,2018,1.8,5,manual,gasoline,RWD,78248,Ut placeat similique a magni doloremque nesciunt rem. Magni dolores maiores possimus aspernatur.
+20,M-15,CM0046,BT-006,2023,1.5,5,automatic,hybrid,RWD,137143,Assumenda ex nam quos molestiae. Velit id praesentium repellendus totam magni.
+21,M-19,CM0043,BT-004,2021,,5,automatic,electric,AWD,68128,Reiciendis iusto soluta. Odio quidem aliquam quidem tenetur. Sequi ut harum iusto.
+22,M-10,CM0037,BT-009,2019,5.5,4,manual,gasoline,FWD,64970,Nemo ducimus ipsam corrupti quidem. Numquam a culpa officia veniam aut et dolores.
+23,M-13,CM0044,BT-006,2023,1.2,5,automatic,hybrid,RWD,99915,Voluptate sapiente magnam animi. Quibusdam aspernatur dicta eligendi explicabo quam illo.
+24,M-17,CM0045,BT-006,2013,2.5,5,automatic,hybrid,RWD,116137,Exercitationem dolore enim accusamus fugit facere tempore. Repellendus corporis assumenda doloremque. Nulla laudantium voluptate ad corporis. Recusandae labore ipsa dignissimos blanditiis aut qui.
+25,M-05,CM0017,BT-005,2006,1.5,5,manual,gasoline,RWD,77571,Corporis ex mollitia aliquam.
+26,M-19,CM0008,BT-008,2019,1.5,7,automatic,gasoline,RWD,20978,Deleniti aspernatur accusantium et consectetur. Temporibus tenetur commodi. Aperiam architecto rerum soluta velit dolore perferendis similique.
+27,M-06,CM0042,BT-004,2022,,5,automatic,electric,RWD,50753,Nisi fugiat commodi fuga perferendis fugit.
+28,M-15,CM0034,BT-009,2021,1.5,4,automatic,diesel,FWD,94611,Accusamus quis maxime architecto. Inventore nulla officiis rerum cum mollitia ipsam. Sunt exercitationem ipsa debitis. Voluptates aliquid nulla mollitia nulla labore saepe.
+29,M-08,CM0036,BT-009,2016,2.2,4,automatic,gasoline,FWD,123948,Excepturi nulla neque fugiat necessitatibus. Quaerat molestias quos debitis.
+30,M-10,CM0033,BT-013,2021,3.0,5,automatic,diesel,RWD,103315,In voluptatem beatae natus. Dolore totam modi. Cumque totam tempore laboriosam alias dolorum quis dolorem.
+31,M-05,CM0001,BT-010,2016,1.5,5,manual,diesel,AWD,141351,Similique itaque dolore eos distinctio reiciendis. Architecto cupiditate distinctio facilis. Nemo enim itaque sequi non.
+32,M-10,CM0030,BT-001,2012,3.5,2,automatic,gasoline,RWD,58852,Ab beatae quia unde laboriosam. Possimus ea ad sint aspernatur.
+33,M-19,CM0008,BT-008,2019,1.5,7,manual,diesel,RWD,129835,Fugiat repellendus fugit optio perferendis aspernatur voluptatem. Deleniti totam maiores iste. Quisquam porro saepe nihil architecto tenetur laudantium saepe. Excepturi vitae ab doloremque sed velit voluptates quaerat.
+34,M-17,CM0006,BT-008,2014,1.5,7,automatic,gasoline,AWD,111833,Aliquid temporibus enim quis fugiat iste dicta. Ea voluptates velit accusantium. Ea odit molestias modi unde. Nemo incidunt quaerat eos quisquam.
+35,M-19,CM0043,BT-004,2021,,5,automatic,electric,RWD,46035,Sapiente fugiat asperiores quas laudantium earum hic. Tempore molestiae cupiditate dolor sed amet ullam. Cumque suscipit nesciunt.
+36,M-12,CM0010,BT-002,2021,1.5,5,automatic,diesel,RWD,93799,Dolorem necessitatibus vitae atque debitis. Recusandae sunt itaque sed corrupti eveniet qui.
+37,M-16,CM0041,BT-004,2021,,5,automatic,electric,RWD,51492,Cum repellendus explicabo officiis nesciunt similique minima. Est cum fugiat ad. Veniam ullam rerum architecto tempora.
+38,M-10,CM0024,BT-012,2015,4.0,4,automatic,diesel,RWD,82044,Cumque quibusdam culpa quibusdam. Vel enim sed animi sint nostrum. Commodi quos consequuntur. Iste quas maxime quisquam officia libero architecto reiciendis.
+39,M-17,CM0020,BT-011,2013,2.5,5,automatic,diesel,AWD,77251,Eos atque nihil nisi voluptates. Quasi distinctio sapiente dolorem numquam repellendus veniam.
+40,M-17,CM0015,BT-005,2017,1.5,5,automatic,diesel,AWD,7263,Beatae exercitationem eveniet explicabo ad iusto. Incidunt iste doloribus repellat. Eius voluptate labore nesciunt totam dolorem quas.
+41,M-17,CM0006,BT-008,2016,1.5,7,automatic,diesel,RWD,68873,Doloremque fugiat perspiciatis repellat. Vel nemo nesciunt eum id a error veritatis. Rerum reprehenderit voluptates enim perferendis.
+42,M-03,CM0003,BT-010,2018,1.5,5,automatic,diesel,AWD,130641,Magni quibusdam quos recusandae debitis perferendis est. Officiis repellat nulla quaerat.
+43,M-03,CM0048,BT-007,2019,1.2,5,automatic,diesel,AWD,808,Molestias molestias dolor ipsam delectus quos eum. Aliquid assumenda accusamus perferendis quod impedit laborum. Tempore non deleniti veniam libero et.
+44,M-03,CM0048,BT-007,2017,1.2,5,automatic,diesel,RWD,140906,Doloribus illum illo quaerat nisi rerum. Laboriosam eum ducimus similique magni. Voluptates harum at id facere at.
+45,M-17,CM0047,BT-007,2019,1.2,5,automatic,diesel,AWD,58714,Ad nisi sunt optio temporibus delectus. Aut deserunt itaque dolor.
+46,M-02,CM0023,BT-012,2016,3.0,4,automatic,gasoline,RWD,46227,Tempora quam nulla nisi culpa architecto dolor. Laudantium necessitatibus reiciendis corrupti maiores similique atque. Ipsam ab adipisci veniam temporibus amet.
+47,M-04,CM0039,BT-003,2012,2.2,5,manual,diesel,RWD,46346,Amet optio error aut officiis aspernatur. Eligendi placeat sint laudantium consequuntur facere dignissimos. Illum at vel dicta veniam vel perferendis eligendi.
+48,M-06,CM0042,BT-004,2021,,5,automatic,electric,RWD,76432,Iste provident voluptatum laudantium nesciunt delectus quis. Corrupti libero qui nisi voluptatibus molestias dolore aspernatur. Sunt ab nisi debitis cupiditate architecto blanditiis voluptatem. Facilis odit fuga debitis.
+49,M-15,CM0005,BT-010,2020,1.2,5,automatic,diesel,AWD,35761,Ducimus a recusandae officiis commodi adipisci error. Aut accusamus consequuntur quae neque ullam.
+50,M-05,CM0013,BT-005,2016,1.2,5,manual,diesel,AWD,20893,Ipsam accusamus incidunt dolorem. Molestias deserunt quisquam non atque officiis nesciunt. Error saepe veniam voluptates repellat. Atque facilis nemo amet eius est.
+51,M-14,CM0026,BT-001,2018,2.0,2,manual,gasoline,RWD,75409,Fuga odio quisquam. Illum ratione enim officiis.
+52,M-17,CM0015,BT-005,2015,1.5,5,manual,gasoline,RWD,30370,Assumenda quam dolores tempora quos. Dolorum rem earum praesentium suscipit iste. Aliquam fuga dolorum cumque voluptatum dolores.
+53,M-12,CM0040,BT-003,2022,2.5,5,automatic,gasoline,RWD,143635,Vel est mollitia impedit mollitia voluptates. Voluptatibus eius debitis eos nostrum rem.
+54,M-17,CM0006,BT-008,2015,1.5,7,automatic,gasoline,AWD,132854,Expedita eius nulla minus. Recusandae aut corporis quidem incidunt. Ad odio maiores ea illo.
+55,M-17,CM0006,BT-008,2015,1.5,7,automatic,diesel,AWD,75953,Repudiandae cumque dignissimos ut perferendis tempore ipsa. Nostrum quam optio hic non consequuntur. Natus non consequatur quod.
+56,M-05,CM0022,BT-012,2018,2.0,4,manual,diesel,RWD,52300,Ut doloremque atque praesentium non. Architecto quisquam molestiae.
+57,M-05,CM0007,BT-008,2015,1.5,7,automatic,diesel,RWD,96134,Neque repellendus eos inventore dicta. Reiciendis iusto amet facere dolorum est.
+58,M-09,CM0012,BT-002,2019,2.0,5,automatic,diesel,AWD,127485,Est eos labore dolor magni esse repellat harum. Beatae sed repellendus culpa odit.
+59,M-05,CM0013,BT-005,2014,1.2,5,manual,gasoline,RWD,147333,Sed blanditiis pariatur aspernatur molestias tenetur. Impedit dolores deserunt temporibus totam enim ratione.
+60,M-17,CM0004,BT-010,2017,2.4,5,manual,diesel,RWD,101333,Consequuntur itaque fugit laudantium deleniti dolor sequi. Hic distinctio deserunt eaque. Temporibus natus cum labore repellendus dolorum nesciunt et.
+61,M-17,CM0018,BT-011,2015,1.8,5,automatic,gasoline,RWD,139916,Itaque ullam ut adipisci. Voluptatem sed necessitatibus debitis. Accusantium sunt iste quas alias fugiat. Nihil quos eveniet asperiores id.
+62,M-13,CM0011,BT-002,2015,1.5,5,automatic,diesel,AWD,49494,Assumenda necessitatibus voluptas aliquam corrupti. Culpa temporibus ipsa rem repellendus reprehenderit expedita. Exercitationem amet placeat reiciendis voluptates consectetur. Veniam voluptatibus incidunt voluptas nostrum dignissimos rerum.
+63,M-09,CM0028,BT-001,2012,2.0,2,manual,gasoline,AWD,125547,Adipisci voluptates incidunt ratione fugit occaecati. Quidem dolores ipsam.
+64,M-09,CM0028,BT-001,2020,2.0,2,manual,diesel,RWD,110972,Exercitationem quaerat minus praesentium deserunt officia eligendi veniam. Autem necessitatibus placeat mollitia dicta libero.
+65,M-17,CM0045,BT-006,2014,2.5,5,automatic,hybrid,RWD,56146,Fugit eveniet aliquam nostrum quae consequatur. Laudantium iure aspernatur eaque voluptatem quis. Eum quod aliquam ullam eaque pariatur sit.
+66,M-17,CM0019,BT-011,2021,1.4,5,automatic,diesel,AWD,142044,Adipisci saepe aliquid. Natus odit id eum. Quasi odit modi voluptatibus magni.
+67,M-17,CM0019,BT-011,2015,1.4,5,manual,diesel,AWD,147646,Vero incidunt quod nesciunt ducimus facilis dolores saepe. Vero exercitationem natus expedita non. Repellat vel nulla sapiente accusantium molestiae. Minima explicabo totam quia laboriosam.
+68,M-12,CM0010,BT-002,2021,1.5,5,automatic,gasoline,AWD,118617,Totam incidunt voluptatibus molestiae officia assumenda enim.
+69,M-18,CM0032,BT-013,2020,2.0,5,automatic,diesel,AWD,92598,Delectus neque praesentium labore impedit error in. Architecto occaecati cupiditate necessitatibus in dolores optio sunt. Assumenda accusantium voluptatem reprehenderit quaerat.
+70,M-17,CM0045,BT-006,2014,2.5,5,automatic,hybrid,RWD,37108,Cum nemo maxime facilis doloremque. Ipsum magnam provident facere. Minima sit fuga expedita quia.
+71,M-05,CM0013,BT-005,2018,1.2,5,manual,gasoline,AWD,4122,Facere quo eligendi veniam iste veritatis asperiores. Accusantium ad laboriosam dolor.
+72,M-17,CM0038,BT-003,2023,2.5,5,manual,diesel,RWD,81455,Autem accusantium molestiae dicta assumenda dolorem. Quas optio a.
+73,M-17,CM0020,BT-011,2013,2.5,5,manual,gasoline,RWD,101369,Vero recusandae corrupti animi officiis nobis quos eum. Quam ratione numquam nam nostrum.
+74,M-04,CM0039,BT-003,2012,2.2,5,automatic,diesel,RWD,119668,Vitae aperiam vero eos in nobis beatae repellendus. Quam temporibus ex maiores necessitatibus officia. Numquam magnam laboriosam ad quo enim dolor.
+75,M-12,CM0010,BT-002,2019,1.5,5,manual,diesel,AWD,31855,Voluptatibus repellendus quae molestias incidunt. Similique rem labore nesciunt neque. Enim commodi repellendus voluptates optio eos commodi omnis.
+76,M-03,CM0048,BT-007,2017,1.2,5,manual,diesel,AWD,141256,Blanditiis alias beatae officia. Nam provident maiores velit voluptatem autem.
+77,M-12,CM0010,BT-002,2019,1.5,5,manual,diesel,RWD,22050,Quis voluptates ipsa exercitationem quos est. Est quae id nostrum.
+78,M-02,CM0023,BT-012,2020,3.0,4,automatic,gasoline,AWD,101747,Id nihil eaque totam. Optio ad quam accusantium.
+79,M-01,CM0025,BT-012,2013,3.0,4,manual,diesel,AWD,36169,Ab voluptas sint incidunt ipsum. Vel modi et voluptates. Alias officiis eaque eligendi doloremque neque soluta occaecati.
+80,M-10,CM0024,BT-012,2015,4.0,4,manual,gasoline,RWD,128525,Repudiandae delectus qui quisquam mollitia.
+81,M-17,CM0006,BT-008,2014,1.5,7,automatic,diesel,AWD,32332,Eaque adipisci quas ut laudantium enim. Et ab laudantium voluptatibus.
+82,M-12,CM0010,BT-002,2021,1.5,5,manual,gasoline,RWD,125059,Nisi esse itaque. Totam accusamus eum temporibus quidem quaerat. Voluptates eum esse.
+83,M-03,CM0003,BT-010,2016,1.5,5,automatic,diesel,RWD,55259,In repellat quasi sit quibusdam illo facere. Odio unde esse ullam exercitationem impedit inventore. Quaerat consectetur deleniti sunt.
+84,M-14,CM0026,BT-001,2021,2.0,2,manual,gasoline,RWD,4199,Perferendis repudiandae exercitationem quo officia blanditiis repellat. Corrupti reiciendis assumenda.
+85,M-17,CM0002,BT-010,2021,1.5,5,manual,gasoline,AWD,120622,Pariatur soluta ea dolorem velit. Unde iste exercitationem itaque necessitatibus aspernatur.
+86,M-17,CM0015,BT-005,2015,1.5,5,manual,gasoline,AWD,135679,Numquam est rem laudantium harum fuga.
+87,M-02,CM0027,BT-001,2021,3.0,2,automatic,gasoline,AWD,21447,Quae aspernatur officiis ratione reiciendis harum dolorum. Hic voluptatem eaque repudiandae. Blanditiis fugit corporis eligendi necessitatibus molestiae.
+88,M-11,CM0031,BT-013,2019,2.0,5,automatic,diesel,RWD,68063,Dolorem recusandae quos asperiores non facilis nulla. Quos animi quidem ipsum aspernatur.
+89,M-05,CM0017,BT-005,2008,1.5,5,automatic,diesel,RWD,65589,Aperiam quidem rerum eos magnam reiciendis consectetur. Provident eveniet quos amet.
+90,M-06,CM0042,BT-004,2022,,5,automatic,electric,AWD,39464,Nostrum consequatur provident asperiores accusantium quos sunt. Quis voluptatem iusto est reprehenderit aspernatur laudantium dolorum. Praesentium magni architecto eos.
+91,M-14,CM0026,BT-001,2018,2.0,2,manual,gasoline,AWD,111245,Recusandae porro assumenda quos praesentium. Eligendi ratione perspiciatis ab.
+92,M-09,CM0012,BT-002,2018,2.0,5,manual,gasoline,AWD,90080,Accusamus nostrum nesciunt asperiores adipisci quasi. Rerum vero quo voluptas quas numquam. Et ratione eos ipsum corrupti tenetur unde.
+93,M-05,CM0007,BT-008,2015,1.5,7,automatic,gasoline,AWD,124680,Illo et ipsum odio accusantium magni. Magni numquam placeat dolore tempore dolor cumque labore.
+94,M-17,CM0038,BT-003,2023,2.5,5,manual,gasoline,RWD,79724,Iure tempora totam labore fugit aliquam molestias. Quam id itaque officia. Quia exercitationem itaque consequatur veniam vero accusamus.
+95,M-13,CM0011,BT-002,2013,1.5,5,automatic,diesel,AWD,139336,Maxime quae velit similique neque iste cumque. Nostrum explicabo possimus deserunt deleniti quidem. Excepturi quos fugiat.
+96,M-15,CM0034,BT-009,2019,1.5,4,manual,gasoline,FWD,38820,Quod ipsam itaque laboriosam minus nisi sequi nisi. Non ipsam debitis ea rem rerum. Placeat temporibus velit ut provident.
+97,M-07,CM0035,BT-009,2014,3.6,4,automatic,gasoline,FWD,14437,Ipsa expedita rerum consectetur. Laboriosam accusantium qui facilis esse eveniet. Alias sit ullam corporis saepe quasi.
+98,M-05,CM0022,BT-012,2018,2.0,4,automatic,diesel,AWD,110419,Dolor rem nulla illo optio. Facilis eos similique maxime unde consequatur accusamus. Ea eligendi praesentium eos architecto error eveniet nobis.
+99,M-11,CM0029,BT-001,2019,2.0,2,manual,gasoline,AWD,84424,Voluptates explicabo nisi. Temporibus sunt dolorem repellat possimus. Delectus dolorem itaque doloribus rerum occaecati inventore repellendus.
+100,M-17,CM0009,BT-008,2021,1.5,7,manual,diesel,RWD,113262,Impedit quos pariatur explicabo magni. Quos reiciendis est eveniet minus officia.
+101,M-11,CM0031,BT-013,2019,2.0,5,automatic,gasoline,RWD,96745,Rem sed vitae facere eligendi doloribus. Saepe aut similique hic aspernatur consectetur.
+102,M-15,CM0014,BT-005,2018,1.4,5,automatic,diesel,RWD,97275,Suscipit accusantium vero dolores enim facere. Sit fugiat nobis.
+103,M-17,CM0002,BT-010,2021,1.5,5,automatic,diesel,RWD,70056,Molestias numquam eligendi exercitationem laudantium. Atque doloremque aspernatur laboriosam occaecati deserunt. Ad occaecati nemo ex cumque illum.
+104,M-10,CM0033,BT-013,2019,3.0,5,manual,diesel,AWD,120050,Aut officia mollitia. Nobis rerum neque similique dolores reprehenderit molestias eaque. Veniam consectetur placeat quas a quam.
+105,M-17,CM0038,BT-003,2023,2.5,5,manual,diesel,RWD,36083,Voluptate non nisi saepe optio et. Saepe dolorum nulla repellendus nam corporis officia. Voluptas ipsam asperiores minus.
+106,M-10,CM0033,BT-013,2020,3.0,5,manual,gasoline,AWD,114126,Quisquam suscipit nobis rem cum totam neque. Veritatis hic aspernatur voluptatibus inventore. Minima quidem culpa saepe. Impedit deserunt perferendis rem.
+107,M-09,CM0021,BT-011,2017,2.5,5,automatic,diesel,AWD,73154,Omnis deleniti labore hic laboriosam. Nisi quo modi fugiat laudantium minus.
+108,M-17,CM0015,BT-005,2013,1.5,5,automatic,diesel,AWD,34836,Quia excepturi cupiditate.
+109,M-07,CM0035,BT-009,2014,3.6,4,automatic,gasoline,FWD,141842,Mollitia quam molestias nisi voluptas. Voluptas sed ipsa architecto. Sint sunt necessitatibus odit maiores ut. Velit nesciunt facilis aliquam eos amet.
+110,M-19,CM0008,BT-008,2019,1.5,7,automatic,gasoline,AWD,120524,Voluptatum placeat temporibus quidem similique exercitationem. Architecto itaque provident iusto labore facere.
+111,M-10,CM0037,BT-009,2013,5.5,4,manual,diesel,FWD,10303,Deserunt incidunt sunt minima. Ex temporibus non fuga magni.
+112,M-13,CM0044,BT-006,2023,1.2,5,automatic,hybrid,RWD,83478,Doloremque aperiam praesentium ex.
+113,M-10,CM0024,BT-012,2015,4.0,4,automatic,diesel,AWD,145507,Illo laudantium nihil aliquid fuga dolorem. Temporibus ducimus nobis ut. Eveniet ipsum quam magni dignissimos enim sapiente voluptates.
+114,M-12,CM0010,BT-002,2021,1.5,5,manual,diesel,AWD,92497,Odit error tenetur vel reiciendis quod. Odio enim quas voluptate ipsam numquam. Ratione beatae necessitatibus debitis corporis blanditiis.
+115,M-10,CM0030,BT-001,2010,3.5,2,manual,gasoline,RWD,8364,Voluptate perferendis molestiae a nesciunt. Occaecati aperiam magni rerum eveniet fuga quos maiores. Quaerat voluptatum ullam ullam.
+116,M-05,CM0013,BT-005,2014,1.2,5,manual,diesel,RWD,103402,Perspiciatis hic aliquid. Voluptate voluptatibus quas et aliquid eos eligendi. Harum id recusandae sapiente iste.
+117,M-11,CM0029,BT-001,2012,2.0,2,manual,diesel,RWD,130554,Nostrum inventore dignissimos consectetur modi autem corporis ipsa. Tempore est impedit nesciunt beatae esse dolorem. Corrupti cumque dolorum.
+118,M-03,CM0048,BT-007,2017,1.2,5,manual,diesel,AWD,37252,Blanditiis praesentium libero ratione doloribus nesciunt. Officia numquam quod nulla. Optio veritatis minima eveniet enim.
+119,M-15,CM0014,BT-005,2019,1.4,5,manual,gasoline,AWD,85189,Temporibus quia neque quasi beatae deleniti dolores officiis.
+120,M-19,CM0043,BT-004,2023,,5,automatic,electric,RWD,722,Non asperiores deleniti veniam. Quod assumenda nobis molestias aperiam.
+121,M-10,CM0030,BT-001,2012,3.5,2,manual,diesel,AWD,99638,Nesciunt est nulla animi. Adipisci nesciunt suscipit beatae. Deserunt esse inventore reprehenderit occaecati.
+122,M-02,CM0023,BT-012,2020,3.0,4,manual,gasoline,AWD,6241,Vel qui blanditiis inventore laborum. Quibusdam consectetur mollitia rerum maxime corrupti.
+123,M-12,CM0040,BT-003,2022,2.5,5,automatic,diesel,RWD,103113,Nesciunt alias suscipit sed officia culpa minima. Odit eius voluptatem nihil sed ratione aliquid.
+124,M-17,CM0018,BT-011,2015,1.8,5,manual,diesel,AWD,130491,Similique consequatur numquam fuga mollitia. At explicabo quidem rerum. Eius cumque tenetur distinctio est voluptatem eos perferendis.
+125,M-05,CM0007,BT-008,2020,1.5,7,manual,gasoline,RWD,80125,Hic occaecati enim omnis nobis voluptatibus laborum.
+126,M-11,CM0031,BT-013,2016,2.0,5,automatic,diesel,RWD,112619,Nihil consectetur vel ea iste. Neque accusantium dolores repellat. Adipisci tenetur voluptatibus rem cum.
+127,M-12,CM0010,BT-002,2020,1.5,5,manual,diesel,RWD,58762,Dicta atque saepe veniam corrupti ullam. Quasi necessitatibus ullam soluta blanditiis.
+128,M-09,CM0028,BT-001,2012,2.0,2,manual,diesel,RWD,4642,Architecto possimus tenetur voluptatibus veritatis est vel. Consequatur tempora culpa reiciendis. Dignissimos sunt quia laboriosam iste doloremque quibusdam. Animi doloribus eligendi sunt eos laboriosam laudantium.
+129,M-19,CM0008,BT-008,2019,1.5,7,manual,diesel,AWD,101558,Necessitatibus modi laboriosam rerum molestias nam aperiam. Nesciunt quam asperiores necessitatibus laborum veritatis in. Facilis fugiat vitae rem.
+130,M-17,CM0009,BT-008,2021,1.5,7,manual,diesel,AWD,96392,Quasi quidem quam necessitatibus corrupti nesciunt. Vero minus perspiciatis corrupti tempore amet eius.
+131,M-06,CM0042,BT-004,2022,,5,automatic,electric,AWD,114807,Facilis sapiente aperiam quasi aut expedita molestiae. Consectetur omnis nobis. Exercitationem numquam aliquid eligendi. Ipsam recusandae quasi sit.
+132,M-17,CM0006,BT-008,2014,1.5,7,manual,gasoline,AWD,3343,Recusandae sed consequuntur nam qui laboriosam fuga. At placeat ipsam quasi consectetur. Explicabo placeat voluptas.
+133,M-05,CM0017,BT-005,2006,1.5,5,automatic,diesel,AWD,1208,Corrupti occaecati voluptatibus. Natus veniam perspiciatis et odio. Quae quidem placeat vero perspiciatis sapiente aliquid veritatis.
+134,M-03,CM0048,BT-007,2017,1.2,5,automatic,gasoline,RWD,6362,Provident excepturi voluptates ad minima beatae tenetur dolores.
+135,M-17,CM0047,BT-007,2016,1.2,5,automatic,diesel,AWD,10920,Ut assumenda expedita recusandae. Necessitatibus rerum eum odit quaerat exercitationem ducimus. Nihil doloribus nulla itaque sunt dolor ipsa.
+136,M-18,CM0032,BT-013,2020,2.0,5,automatic,diesel,AWD,6930,Corporis provident natus labore. Est tempore recusandae magni accusamus ullam. Ut distinctio dicta ut modi eos at cum.
+137,M-09,CM0012,BT-002,2019,2.0,5,automatic,gasoline,AWD,102467,Provident voluptates eveniet quidem voluptas commodi. Facere libero harum corrupti. Molestiae officiis hic neque delectus nulla vitae. Maiores nam quod hic atque numquam.
+138,M-12,CM0010,BT-002,2021,1.5,5,automatic,gasoline,RWD,30529,Ex ipsam repellat quibusdam voluptas impedit. Error dolore voluptatibus vitae totam molestiae. Vel eius quae id vel ullam.
+139,M-15,CM0005,BT-010,2018,1.2,5,automatic,diesel,RWD,13795,Qui voluptas ipsa aliquid. Perspiciatis mollitia sed et necessitatibus accusamus odio dicta.
+140,M-17,CM0047,BT-007,2019,1.2,5,automatic,gasoline,RWD,118813,Laudantium modi sapiente aspernatur beatae. Id nam nostrum repellendus ullam. Voluptatibus nulla molestiae et labore nisi.
+141,M-11,CM0031,BT-013,2016,2.0,5,automatic,diesel,RWD,76770,Atque autem tenetur reiciendis error non occaecati in. Ratione eos ea aliquam cupiditate id id. Et veniam delectus dolorum. Placeat voluptatum molestias excepturi dolor.
+142,M-09,CM0016,BT-005,2019,1.5,5,automatic,diesel,RWD,133094,Fuga numquam numquam soluta. Nobis doloribus omnis explicabo nihil cum atque sed.
+143,M-17,CM0047,BT-007,2016,1.2,5,manual,diesel,AWD,93107,Placeat sapiente numquam rerum commodi. Vero minus sequi tempore laborum. Non soluta reiciendis quia sunt.
+144,M-10,CM0037,BT-009,2016,5.5,4,manual,gasoline,FWD,85639,Non ipsum incidunt quo. Voluptatum aliquam eveniet. Doloribus corrupti magnam totam molestiae dolore.
+145,M-04,CM0039,BT-003,2015,2.2,5,automatic,gasoline,RWD,70546,Illum odit iure. Necessitatibus a blanditiis.
+146,M-17,CM0020,BT-011,2015,2.5,5,automatic,diesel,RWD,20348,Dicta labore officiis similique dolorem explicabo. Odit tenetur inventore sunt cupiditate error fugit. Ratione nihil aliquid laborum ex eligendi recusandae.
+147,M-17,CM0009,BT-008,2019,1.5,7,automatic,diesel,RWD,45514,Commodi sit accusantium inventore. Delectus neque dolore maiores iste. Sed beatae porro perferendis architecto sed.
+148,M-17,CM0018,BT-011,2015,1.8,5,automatic,diesel,AWD,144589,Unde velit iste voluptate illum voluptatem consectetur. Labore asperiores officia molestias.
+149,M-15,CM0034,BT-009,2019,1.5,4,manual,diesel,FWD,60935,Cum molestiae saepe quibusdam similique perspiciatis animi. Labore tenetur nemo molestias ipsa ut consectetur illum. Repellat dicta deleniti ipsa iste.
+150,M-17,CM0009,BT-008,2021,1.5,7,automatic,gasoline,RWD,71028,Hic a ut ipsa. Ab optio quo rerum odit fugiat. Rerum quibusdam amet ratione fuga amet.
+151,M-10,CM0033,BT-013,2021,3.0,5,manual,diesel,RWD,115630,Expedita facere laborum maxime nesciunt nemo quaerat. Quisquam impedit non beatae a est ea sint.
+152,M-17,CM0045,BT-006,2014,2.5,5,automatic,hybrid,AWD,136183,Est repellat perspiciatis in fugiat.
+153,M-03,CM0048,BT-007,2019,1.2,5,manual,diesel,AWD,83407,Assumenda sit vero. Eligendi maiores beatae sed doloribus. Aspernatur facere asperiores ipsum accusamus voluptatibus.
+154,M-15,CM0034,BT-009,2021,1.5,4,automatic,diesel,FWD,11103,Debitis aliquid dolorem asperiores magnam. Illum iure non quisquam sunt. Mollitia perferendis blanditiis quidem. Harum aliquam voluptatem temporibus sed.
+155,M-06,CM0042,BT-004,2023,,5,automatic,electric,RWD,50928,Quo illum incidunt architecto adipisci cumque. Ullam doloremque reiciendis accusamus voluptatem vel. Cupiditate delectus quas labore ex alias nulla.
+156,M-05,CM0001,BT-010,2019,1.5,5,manual,diesel,RWD,10359,Voluptas pariatur molestiae eligendi voluptatem earum debitis. Necessitatibus sapiente aliquam aliquam pariatur molestias.
+157,M-19,CM0043,BT-004,2022,,5,automatic,electric,AWD,63836,Repudiandae deleniti omnis nobis ipsam. Doloribus ex aliquam voluptatibus. Quis accusamus commodi pariatur.
+158,M-01,CM0025,BT-012,2023,3.0,4,automatic,diesel,RWD,58723,Saepe qui magni quis aut laudantium. Perspiciatis fuga amet est possimus mollitia perspiciatis. Ipsa molestias illum quibusdam veniam perspiciatis consectetur.
+159,M-10,CM0037,BT-009,2019,5.5,4,manual,gasoline,FWD,133643,Laboriosam omnis repellat debitis maxime assumenda. Tempore voluptas sequi velit deleniti nihil quae. Nulla ipsam molestiae eaque molestiae quis accusantium.
+160,M-03,CM0048,BT-007,2017,1.2,5,manual,gasoline,RWD,121021,Sed magni cupiditate facilis molestias vel. Praesentium aspernatur optio neque.
+161,M-11,CM0029,BT-001,2016,2.0,2,automatic,diesel,AWD,69004,Error doloribus inventore autem neque blanditiis sapiente. Labore magnam rerum eos quos. Iure molestias iusto voluptatibus. Perspiciatis autem vel rem qui labore.
+162,M-09,CM0028,BT-001,2012,2.0,2,automatic,diesel,AWD,131703,Perferendis quaerat voluptatem corporis. Soluta nemo fugiat harum perspiciatis possimus.
+163,M-11,CM0031,BT-013,2020,2.0,5,manual,gasoline,RWD,110764,Facere fugit nisi saepe. Voluptatem illo neque voluptate rem aliquam.
+164,M-17,CM0047,BT-007,2019,1.2,5,automatic,diesel,RWD,35242,Officiis eaque ipsa enim. Expedita quibusdam earum amet.
+165,M-15,CM0046,BT-006,2022,1.5,5,automatic,hybrid,AWD,13271,Incidunt deleniti deleniti repudiandae quia ut quo.
+166,M-10,CM0024,BT-012,2015,4.0,4,automatic,diesel,RWD,138922,Animi quasi odio porro. Repellat alias sit eaque alias at omnis. Dicta autem voluptatibus. Ex temporibus inventore tempore sunt sit repellendus.
+167,M-13,CM0011,BT-002,2011,1.5,5,manual,gasoline,RWD,21986,Quas a ullam itaque qui nam. Quae amet aliquid. Sint tenetur aut mollitia dicta a.
+168,M-05,CM0007,BT-008,2015,1.5,7,manual,diesel,AWD,96747,Aliquid est illo officiis minus. Nesciunt molestias quasi delectus. Rerum inventore necessitatibus pariatur a laboriosam. Sequi reiciendis temporibus officiis.
+169,M-10,CM0037,BT-009,2016,5.5,4,manual,gasoline,FWD,21060,Maxime sequi fugiat rerum adipisci iusto. Asperiores cupiditate perspiciatis.
+170,M-18,CM0032,BT-013,2023,2.0,5,manual,diesel,AWD,48643,Et sequi natus pariatur consectetur pariatur. Enim voluptate quaerat nostrum dolorem rerum deserunt molestias.
+171,M-12,CM0040,BT-003,2016,2.5,5,automatic,diesel,AWD,137006,Praesentium alias delectus ab. Odio quos eum ipsum iure quo. Quibusdam dolore aliquam cupiditate neque.
+172,M-17,CM0006,BT-008,2014,1.5,7,manual,diesel,AWD,55590,Esse vero consequatur molestiae quibusdam unde. Nulla commodi aliquid error in mollitia deserunt. Aperiam eos cupiditate nostrum.
+173,M-17,CM0019,BT-011,2021,1.4,5,automatic,gasoline,RWD,93525,Eaque expedita tempore quibusdam quas molestias. Ullam dolorum assumenda soluta beatae officia assumenda. Maxime qui occaecati veritatis nulla.
+174,M-02,CM0023,BT-012,2016,3.0,4,manual,diesel,AWD,46401,Et labore consequatur laborum quia totam ex. Magnam ex dolorem maxime commodi.
+175,M-19,CM0043,BT-004,2023,,5,automatic,electric,RWD,15964,Quaerat quam sunt commodi optio ipsa. Deleniti vitae possimus est. Vero ab veniam doloribus aliquam.
+176,M-15,CM0046,BT-006,2023,1.5,5,automatic,hybrid,RWD,10483,Quam ullam itaque ipsam animi. Repellendus nostrum voluptatem sit. Eaque facere magni architecto distinctio nihil saepe.
+177,M-12,CM0010,BT-002,2021,1.5,5,manual,diesel,AWD,67367,Quidem quibusdam excepturi ullam aliquam amet. Facilis reprehenderit reprehenderit nihil atque. Sint atque sed.
+178,M-10,CM0037,BT-009,2013,5.5,4,manual,diesel,FWD,33491,Doloribus inventore esse quo. Deserunt saepe temporibus quas recusandae nostrum.
+179,M-17,CM0020,BT-011,2017,2.5,5,automatic,diesel,RWD,28419,Accusamus iusto voluptatum expedita nihil officia molestias. Sit error iste nihil dolorem totam.
+180,M-13,CM0044,BT-006,2023,1.2,5,automatic,hybrid,RWD,42922,Eos facilis animi deserunt voluptatem corrupti. Fugiat iure magni nemo saepe vero. Vero ipsum quidem id iusto error.
+181,M-13,CM0044,BT-006,2023,1.2,5,automatic,hybrid,AWD,93943,Distinctio nihil fugit nobis nobis vitae.
+182,M-05,CM0013,BT-005,2014,1.2,5,automatic,gasoline,AWD,97484,Maxime perferendis est laboriosam corporis. Magni assumenda molestiae saepe recusandae tenetur dolor.
+183,M-02,CM0023,BT-012,2020,3.0,4,automatic,diesel,AWD,121906,Officia dicta voluptates cupiditate. Quod corporis harum sunt blanditiis debitis sint. Adipisci nostrum voluptatem rerum.
+184,M-09,CM0021,BT-011,2014,2.5,5,manual,gasoline,AWD,121990,Rerum impedit optio ullam voluptates. Molestiae eaque culpa iusto.
+185,M-17,CM0019,BT-011,2021,1.4,5,automatic,diesel,AWD,114378,Amet blanditiis id debitis hic. Odit vitae possimus nihil dolores accusantium doloribus. Consequatur minima odit atque minima. Doloremque sed deleniti voluptatum mollitia omnis sapiente.
+186,M-13,CM0011,BT-002,2013,1.5,5,manual,diesel,RWD,46243,Magni eum odit voluptate.
+187,M-19,CM0008,BT-008,2019,1.5,7,manual,gasoline,AWD,560,Numquam iusto perspiciatis debitis consequatur iusto nobis. Quos iusto officia minus odit inventore quis iusto. Velit rem excepturi dolore laudantium cum.
+188,M-10,CM0033,BT-013,2019,3.0,5,automatic,diesel,AWD,73222,Eos repudiandae corrupti cumque accusantium dicta. Ea iure error sunt quae.
+189,M-17,CM0006,BT-008,2014,1.5,7,manual,diesel,AWD,95889,Labore alias excepturi aliquid. Aliquid laborum ut in exercitationem quos. Ea quia quis quod saepe odit. Cupiditate rerum ut rerum inventore doloribus.
+190,M-10,CM0024,BT-012,2015,4.0,4,automatic,diesel,RWD,105174,Atque eveniet neque quaerat ducimus.
+191,M-18,CM0032,BT-013,2020,2.0,5,manual,gasoline,RWD,57003,Beatae eligendi architecto perferendis deserunt doloremque nesciunt. Labore neque asperiores labore pariatur molestias. Tempora eaque nobis tenetur.
+192,M-17,CM0047,BT-007,2022,1.2,5,automatic,gasoline,RWD,81602,Voluptatibus qui magni aut et officia dolorum. Repellendus earum explicabo architecto mollitia placeat repellendus vitae.
+193,M-05,CM0022,BT-012,2019,2.0,4,automatic,gasoline,AWD,17120,Nulla ducimus magnam iure fugiat ex. Laudantium adipisci illo voluptate.
+194,M-07,CM0035,BT-009,2023,3.6,4,automatic,gasoline,FWD,142368,Necessitatibus natus nam.
+195,M-02,CM0023,BT-012,2016,3.0,4,automatic,diesel,AWD,74995,Unde tempora omnis. Omnis dolor quasi at quibusdam. Veniam ratione libero blanditiis.
+196,M-15,CM0034,BT-009,2019,1.5,4,manual,diesel,FWD,83727,Tempora consequuntur quae a ea soluta laudantium. Tempore repellendus iste delectus eveniet cumque. Animi dolore enim harum perferendis eaque.
+197,M-17,CM0047,BT-007,2016,1.2,5,manual,gasoline,RWD,2389,Rerum assumenda dolore tempore. Id recusandae quo laborum fugit reprehenderit. Labore ut illum necessitatibus aspernatur est consequuntur.
+198,M-17,CM0019,BT-011,2021,1.4,5,manual,gasoline,AWD,118216,Praesentium a eligendi quod debitis. Delectus suscipit pariatur qui ab expedita. Similique quibusdam accusantium ipsam adipisci ducimus earum.
+199,M-09,CM0016,BT-005,2018,1.5,5,manual,gasoline,RWD,51299,Quam dolorum necessitatibus id non.
+200,M-07,CM0035,BT-009,2023,3.6,4,manual,gasoline,FWD,98388,Cum qui iure eveniet molestiae debitis quia. Assumenda eveniet porro vel alias dolore iste.
