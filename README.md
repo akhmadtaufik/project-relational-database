@@ -149,4 +149,11 @@ Follow these steps to utilize the Online Used Car Database with PostgreSQL 15:
 
 **Step 6:** You are now ready to work with the database. You can start by executing SELECT queries to retrieve data according to your needs.
 
+# Complete Documentation
+For comprehensive documentation and a detailed walkthrough of the design and implementation of the relational database system for the Online Used Car platform, you can access the full article on Medium using the following link:
+
+[Designing and Implementing a Relational Database System for an Online Used Car Platform](https://medium.com/@akhmadtaufik/designing-and-implementing-a-relational-database-system-for-an-online-used-car-sales-platform-ab231ed44df0)
+
+This article provides in-depth insights into the database design, schema structure, data generation process, and SQL query examples used in the project.
+
 &copy; 2023 Akhmad Taufik Ismail
