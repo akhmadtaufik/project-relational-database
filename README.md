@@ -1,6 +1,8 @@
 # Database Specification:
 ## DBMS Used: PostgreSQL 15
 ## Database Name: used-car-db
+## Data Dummy Generation Language: Python (using Faker library)
+To access the Python module and functions employed for generating dummy data, kindly consult the [Generate Dummy Data Repository](https://github.com/akhmadtaufik/create-dummy-for-db).
 
 # Database Purpose:
 The purpose of this database is to support an online platform for the sale of used cars. It enables users to create detailed advertisements for the used cars they want to sell, provides contact information for sellers, allows potential buyers to search for cars based on the seller's location, car brand, and body type, and enhances interaction between sellers and buyers by providing accurate and relevant information about the available used cars.
