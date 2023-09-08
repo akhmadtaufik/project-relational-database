@@ -145,9 +145,8 @@ Follow these steps to utilize the Online Used Car Database with PostgreSQL 15:
 
 **Step 4:** Create a connection to your PostgreSQL Server using your preferred database management tool. You can connect locally or remotely, depending on your PostgreSQL Server setup.
 
-**Step 5:** Run the SQL scripts provided in the database folder. Ensure that you execute them with appropriate privileges, especially when creating the database schema and tables.
+**Step 5:** Run the SQL scripts provided in the database or back-up folder. Ensure that you execute them with appropriate privileges, especially when creating the database schema and tables.
 
 **Step 6:** You are now ready to work with the database. You can start by executing SELECT queries to retrieve data according to your needs.
 
-Enjoy exploring and utilizing the Online Used Car Sales Database with PostgreSQL 15 for your project!
-
+&copy; 2023 Akhmad Taufik Ismail
